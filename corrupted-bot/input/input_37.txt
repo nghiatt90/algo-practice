@@ -1,0 +1,3 @@
+12
+638 187 691 651 663 635 894 354 417 453 9 263
+Even Odd Odd Odd Odd Odd Even Even Odd Odd Odd Odd

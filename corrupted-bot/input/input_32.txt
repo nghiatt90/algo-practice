@@ -1,0 +1,3 @@
+5
+819 233 751 206 976
+Odd Odd Even Even Even
