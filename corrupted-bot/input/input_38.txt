@@ -1,0 +1,3 @@
+4
+635 303 257 149
+Odd Even Odd Odd

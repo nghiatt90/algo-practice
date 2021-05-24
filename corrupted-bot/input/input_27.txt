@@ -1,0 +1,3 @@
+10
+933 297 856 54 963 585 735 655 973 458
+Odd Odd Even Even Odd Odd Odd Odd Odd Even

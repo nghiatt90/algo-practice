@@ -1,0 +1,3 @@
+25
+792 470 913 147 694 92 816 950 858 641 53 237 552 488 227 163 956 184 395 181 98 66 66 514 262
+Even Even Odd Odd Even Even Even Even Even Odd Odd Odd Even Even Odd Odd Even Even Odd Odd Even Even Even Even Even
